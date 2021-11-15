@@ -1,0 +1,14 @@
+*~
+*.tar.gz
+/pytorchRotNet/experiments/
+/pytorchRotNet/datasets/
+/pytorchRotNet/__pycache__/
+/paddleRotNet/experiments/
+/paddleRotNet/datasets/
+/paddleRotNet/__pycache__/
+/pytorchRotNet/extras/
+# !/home/haitaowu/paddle/FeatureLearningRotNet/pytorchRotNet/algorithms/*
+*.pyc
+!*.py
+*.pdparams
+*.pth
